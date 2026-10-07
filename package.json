@@ -6,6 +6,7 @@
     "url": "https://github.com/tscircuit/ngspice-spice-engine"
   },
   "description": "A tscircuit-compatible SPICE engine using ngspice.",
+  "license": "MIT",
   "type": "module",
   "main": "./dist/index.js",
   "files": [
